@@ -1,0 +1,66 @@
+body{
+
+  margin:0;
+  font-family: "Segoe UI", sans-serif;
+
+  background: linear-gradient(
+  -45deg,
+  #667eea,
+  #764ba2,
+  #6a11cb,
+  #2575fc
+  );
+
+  background-size:400% 400%;
+
+  animation: gradientBG 12s ease infinite;
+
+  height:100vh;
+}
+
+/* Animated gradient */
+
+@keyframes gradientBG{
+
+  0%{
+    background-position:0% 50%;
+  }
+
+  50%{
+    background-position:100% 50%;
+  }
+
+  100%{
+    background-position:0% 50%;
+  }
+
+}
+
+/* Dashboard */
+
+.dashboard{
+
+  text-align:center;
+  color:white;
+
+  padding-top:150px;
+
+}
+
+.dashboard button{
+
+  padding:12px 25px;
+
+  border:none;
+
+  background:#ff4b2b;
+
+  color:white;
+
+  border-radius:8px;
+
+  font-size:16px;
+
+  cursor:pointer;
+
+}
