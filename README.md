@@ -39,6 +39,30 @@ Basic student record management logic.
 JavaScript console-based logic exercises.
 
 ---
+# Smart Signup Authentication System
+
+A modern React authentication UI with signup, login and dashboard.
+
+## Live Demo
+https://smart-auth-react.netlify.app/
+
+## Features
+• Email validation  
+• Strong password validation  
+• Password strength meter  
+• Show / Hide password  
+• Signup → Login → Dashboard flow  
+• Protected routes  
+• Toast notifications  
+• Animated gradient UI  
+• Glassmorphism design  
+
+## Tech Stack
+React  
+React Router  
+CSS  
+Netlify
+
 
 ## 🛠 Skills Learned
 
