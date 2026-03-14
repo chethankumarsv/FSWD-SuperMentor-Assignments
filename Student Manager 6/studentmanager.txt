@@ -1,0 +1,43 @@
+console.log("=== Student Manager System ===");
+
+// Array of student objects
+let students = [
+  { name: "Rahul", marks: [85, 78, 90] },
+  { name: "Priya", marks: [88, 92, 79] },
+  { name: "Amit", marks: [70, 75, 80] }
+];
+
+let classTotal = 0;
+let topStudent = "";
+let highestAverage = 0;
+
+// Loop through students
+students.forEach(function(student){
+
+    let total = 0;
+
+    student.marks.forEach(function(mark){
+        total += mark;
+    });
+
+    let average = total / student.marks.length;
+
+    console.log("Student:", student.name);
+    console.log("Average Marks:", average.toFixed(2));
+    console.log("-------------------------");
+
+    classTotal += average;
+
+    // find top student
+    if(average > highestAverage){
+        highestAverage = average;
+        topStudent = student.name;
+    }
+
+});
+
+// class average
+let classAverage = classTotal / students.length;
+
+console.log("Class Average:", classAverage.toFixed(2));
+console.log("Top Student:", topStudent);

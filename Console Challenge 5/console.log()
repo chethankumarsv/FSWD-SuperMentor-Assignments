@@ -1,0 +1,43 @@
+console.log("=== Console Calculator ===");
+
+
+let num1 = parseFloat(prompt("Enter first number:"));
+let num2 = parseFloat(prompt("Enter second number:"));
+let operator = prompt("Choose operation (+, -, *, /, %):");
+
+let result;
+
+switch(operator) {
+
+    case "+":
+        result = num1 + num2;
+        console.log("Addition Result:", result);
+        break;
+
+    case "-":
+        result = num1 - num2;
+        console.log("Subtraction Result:", result);
+        break;
+
+    case "*":
+        result = num1 * num2;
+        console.log("Multiplication Result:", result);
+        break;
+
+    case "/":
+        if(num2 === 0){
+            console.log("Error: Division by zero not allowed");
+        } else {
+            result = num1 / num2;
+            console.log("Division Result:", result);
+        }
+        break;
+
+    case "%":
+        result = num1 % num2;
+        console.log("Modulus Result:", result);
+        break;
+
+    default:
+        console.log("Invalid operator entered");
+}
