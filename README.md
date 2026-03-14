@@ -1,4 +1,4 @@
-# 🚀 FSWD SuperMentor Assignments
+[# 🚀 FSWD SuperMentor Assignments
 
 This repository contains assignments completed during the Full Stack Web Development SuperMentor program.
 
@@ -52,3 +52,18 @@ JavaScript console-based logic exercises.
 
 ## 👨‍💻 Author
 Chethan Kumar S V
+](https://www.linkedin.com/in/chethan-kumar-sv-889697258?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+FSWD-SuperMentor-Assignments
+│
+├── dynamic-list-app
+├── mood-tracker
+├── weather-dashboard
+├── responsive-hero-page
+├── student-manager
+├── console-challenge
+
+
+---
+
+⭐ This repository showcases my learning journey in **Full Stack Web Development**.
