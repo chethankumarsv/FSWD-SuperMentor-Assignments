@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.folder {
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+.folder-name {
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+.folder-name:hover {
+  color: #38bdf8;
+}
+
+button {
+  margin-left: 5px;
+  padding: 4px 8px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.add-btn {
+  background: #22c55e;
+  color: white;
+}
+
+.delete-btn {
+  background: #ef4444;
+  color: white;
+}
