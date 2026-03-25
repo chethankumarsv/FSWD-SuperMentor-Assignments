@@ -1,153 +1,114 @@
-# 🚀 FSWD SuperMentor Assignments
+# 🚀 Chethan Kumar S V | Full Stack Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=chethankumarsv\&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/chethankumarsv?style=social)
+
+---
+
+## 💡 About Me
+
+I am a **Full Stack Web Developer** passionate about building **modern, scalable, and user-friendly web applications**.
+
+* 🎯 Focused on **Frontend + Backend Development**
+* ⚡ Strong in **JavaScript, React, Node.js**
+* 🚀 Building **real-world projects with APIs**
+* 📈 Continuously improving through hands-on coding
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![Netlify](https://img.shields.io/badge/Deployed-Netlify-success?logo=netlify)
 
-Welcome to my **Full Stack Web Development (FSWD) SuperMentor Assignments Repository**.
-This repository contains the projects and coding exercises I completed while learning **modern web development concepts, frontend frameworks, and deployment practices**.
+### ⚙️ Backend
 
----
-
-# 🌐 Live React Project
-
-## 🔐 Smart Signup Authentication System
-
-A **modern authentication interface built using React** that demonstrates real-world login and signup flow with validation and routing.
-
-🔗 **Live Demo:**
-https://smart-auth-react.netlify.app/
-
-### ✨ Features
-
-* Email validation
-* Strong password validation
-* Password strength meter
-* Show / Hide password
-* Signup → Login → Dashboard flow
-* Protected routes
-* Toast notifications
-* Animated gradient UI
-* Glassmorphism modern design
-* LocalStorage authentication
-
-### 🛠 Tech Stack
-
-* React
-* React Router
-* CSS3
-* Netlify (Deployment)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Server-lightgrey?logo=express)
 
 ---
 
-# 📂 Assignment Projects
+# 🌟 Featured Projects
 
-### 🌤 Weather Dashboard
+## 🛒 Product Listing Pro
 
-Fetches weather data from a public API and displays real-time weather information.
+🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments/tree/main/08-Product-Listing-Pro
 
-**Tech Used**
+A **modern e-commerce UI** with real API integration.
 
-* HTML
-* CSS
-* JavaScript
-* Weather API
+### 🚀 Features
 
----
-
-### 😊 Mood Tracker
-
-A simple interactive application that allows users to record their daily mood.
-
-**Tech Used**
-
-* HTML
-* CSS
-* JavaScript
+* FakeStore API integration
+* Search, Filter & Sort
+* Responsive UI
+* Dynamic product rendering
 
 ---
 
-### 📋 Dynamic List App
+## 🚀 Hello Server (Node.js)
 
-A dynamic list application where users can **add and remove items interactively** using DOM manipulation.
+🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments/tree/main/09-Hello-Server
 
-**Tech Used**
+A **backend server using Express.js** demonstrating routing.
 
-* JavaScript
-* DOM Manipulation
+### 🚀 Features
 
----
-
-### 🎨 Responsive Hero Page
-
-A responsive landing page layout designed to adapt across different screen sizes.
-
-**Tech Used**
-
-* HTML
-* CSS
-* Responsive Design
+* Multiple routes
+* Dynamic routing
+* Middleware
+* 404 handling
 
 ---
 
-### 🎓 Student Manager
+## 🔐 Smart Signup (React)
 
-A basic logic-based project to manage student records.
+🔗 https://smart-auth-react.netlify.app/
 
-**Concepts Used**
-
-* JavaScript Objects
-* Data manipulation
-* Program logic
+Modern authentication UI built using React.
 
 ---
 
-### 🖥 Console Challenge
+# 📂 All Assignments
 
-A set of **JavaScript logic problems** solved using the browser console.
-
----
-
-# 🛠 Skills Learned
-
-Through these assignments I practiced and improved my skills in:
-
-* DOM Manipulation
-* API Integration
-* Responsive UI Design
-* JavaScript Logic Building
-* React Component Architecture
-* Authentication UI Flow
-* Git & GitHub Version Control
-* Project Deployment
+| No | Project              | Description             |
+| -- | -------------------- | ----------------------- |
+| 01 | Folder Architect     | File structure handling |
+| 02 | Weather Dashboard    | API-based weather app   |
+| 03 | Mood Tracker         | Daily mood tracker      |
+| 04 | Dynamic List App     | DOM manipulation        |
+| 05 | Responsive Hero Page | UI design               |
+| 06 | Student Manager      | JS logic                |
+| 07 | Console Challenges   | Problem solving         |
+| 08 | Product Listing Pro  | E-commerce UI           |
+| 09 | Hello Server         | Backend server          |
+| 10 | Smart Signup         | React authentication    |
 
 ---
 
-# 📁 Repository Structure
+# 📊 GitHub Stats
 
-```
-FSWD-SuperMentor-Assignments
-│
-├── dynamic-list-app
-├── mood-tracker
-├── weather-dashboard
-├── responsive-hero-page
-├── student-manager
-├── console-challenge
-├── smart-signup-form
-```
+![Chethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chethankumarsv\&show_icons=true\&theme=radical)
 
 ---
 
-# 👨‍💻 Author
-
-**Chethan Kumar S V**
+# 🌐 Connect With Me
 
 🔗 LinkedIn
 https://www.linkedin.com/in/chethan-kumar-sv-889697258
 
+🔗 GitHub
+https://github.com/chethankumarsv
+
 ---
 
-⭐ This repository represents my **learning journey in Full Stack Web Development** and showcases my progress in building interactive and deployable web applications.
+# 🎯 Career Goal
+
+To become a **Full Stack Developer** and build scalable applications that solve real-world problems.
+
+---
+
+⭐ This repository showcases my journey from **beginner → full stack developer**.
