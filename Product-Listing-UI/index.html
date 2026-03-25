@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ShopX - Product Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <h2>🛒 ShopX</h2>
+    <input type="text" id="searchInput" placeholder="Search products...">
+  </nav>
+
+  <!-- FILTERS -->
+  <section class="filters">
+    <select id="categoryFilter">
+      <option value="all">All Categories</option>
+    </select>
+
+    <select id="sortFilter">
+      <option value="default">Sort By</option>
+      <option value="low">Price: Low to High</option>
+      <option value="high">Price: High to Low</option>
+    </select>
+  </section>
+
+  <!-- PRODUCTS -->
+  <section id="productContainer" class="products"></section>
+
+  <!-- LOADER -->
+  <div id="loader">Loading products...</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
