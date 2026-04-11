@@ -9,10 +9,11 @@
 
 ## 💼 Professional Summary
 
-Motivated **Full Stack Developer** with hands-on experience building **scalable web applications** using modern technologies. Strong foundation in both **frontend and backend development**, with a focus on clean architecture, API design, and real-world problem solving.
+Motivated **Full Stack Developer** with hands-on experience building **scalable web applications** using modern technologies. Strong foundation in both **frontend and backend development**, with a focus on clean architecture, API design, authentication systems, and real-world problem solving.
 
 * 💻 Proficient in **JavaScript, React, Node.js, Express**
 * ⚙️ Experienced in building **RESTful APIs & backend systems**
+* 🔐 Skilled in **authentication & authorization (JWT, Role-Based Access)**
 * 🧠 Strong understanding of **MVC architecture & database design**
 * 🚀 Passionate about developing **production-ready applications**
 
@@ -32,6 +33,8 @@ Motivated **Full Stack Developer** with hands-on experience building **scalable 
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-Framework-lightgrey?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-blue)
 
 ---
 
@@ -41,14 +44,8 @@ Motivated **Full Stack Developer** with hands-on experience building **scalable 
 
 🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments/tree/main/08-Product-Listing-Pro
 
-A modern **e-commerce interface** with real API integration.
-
-**Highlights:**
-
-* API integration (FakeStore)
-* Advanced filtering, sorting, and search
-* Responsive UI design
-* Dynamic rendering with JavaScript
+Modern **e-commerce interface** with real API integration.
+✔ Filtering, sorting, responsive UI, dynamic rendering
 
 ---
 
@@ -56,80 +53,89 @@ A modern **e-commerce interface** with real API integration.
 
 🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments/tree/main/09-Hello-Server
 
-Backend server demonstrating **core Express concepts**.
-
-**Highlights:**
-
-* REST routing structure
-* Middleware usage
-* Dynamic endpoints
-* Error handling (404)
+Backend server demonstrating **Express fundamentals**.
+✔ Routing, middleware, dynamic endpoints, error handling
 
 ---
 
 ### 📚 Task API (CRUD + MongoDB)
 
-🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments
-
-A **RESTful task management API** built with scalable backend practices.
-
-**Highlights:**
-
-* Full CRUD operations
-* MongoDB integration via Mongoose
-* API testing with Postman
-* Clean modular structure
+A scalable **RESTful API for task management**.
+✔ CRUD operations, Mongoose integration, modular backend
 
 ---
 
-### 🧱 MVC Refactor (Backend Architecture)
+### 🧱 MVC Refactor
 
-🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments
-
-Refactored backend into **MVC architecture** for maintainability and scalability.
-
-**Highlights:**
-
-* Separation of concerns (Model, Controller, Routes)
-* Middleware integration
-* Industry-standard project structure
-* Clean, extensible codebase
+Refactored backend into **clean MVC architecture**.
+✔ Separation of concerns, scalable structure
 
 ---
 
-### 🧠 Data Modeler (MongoDB Design)
+### 🧠 Data Modeler
 
-🔗 https://github.com/chethankumarsv/FSWD-SuperMentor-Assignments
+Designed **MongoDB schema for blogging platform**.
+✔ ER design, relationships, scalable modeling
 
-Designed a **scalable database schema** for a blogging platform.
+---
 
-**Highlights:**
+### 🔧 CRUD Lab
 
-* Entities: Users, Posts, Comments, Likes, Tags
-* Relationship modeling (1:N, M:N)
-* ER diagram and structured documentation
-* Optimized for scalability and performance
+Implemented **core CRUD operations using Mongoose**.
+✔ Create, Read, Update, Delete APIs
+✔ Database interaction fundamentals
+
+---
+
+### 🔐 Secure Login
+
+Built **authentication system with JWT & bcrypt**.
+✔ Password hashing
+✔ Token-based authentication
+✔ Secure login system
+
+---
+
+### 🛡️ Role Guard
+
+Implemented **role-based authorization system**.
+✔ Admin/User roles
+✔ Protected routes
+✔ Middleware-based access control
+
+---
+
+### 🔗 Connect the Stack
+
+Integrated **React frontend with backend APIs**.
+✔ Axios API calls
+✔ JWT token handling
+✔ Full-stack communication
 
 ---
 
 ## 📂 Assignment Portfolio
 
-| No | Project Name        | Domain          | Key Concept       |
-| -- | ------------------- | --------------- | ----------------- |
-| 01 | Folder Architect    | Fundamentals    | File Structure    |
-| 02 | Weather Dashboard   | API             | Data Fetching     |
-| 03 | Mood Tracker        | UI/UX           | State Handling    |
-| 04 | Dynamic List App    | JavaScript      | DOM Manipulation  |
-| 05 | Responsive Hero     | Frontend        | Responsive Design |
-| 06 | Student Manager     | Logic           | Data Handling     |
-| 07 | Console Challenges  | Problem Solving | Algorithms        |
-| 08 | Product Listing Pro | Frontend        | API Integration   |
-| 09 | Hello Server        | Backend         | Express Basics    |
-| 10 | Smart Signup        | React           | Authentication UI |
-| 11 | Route Master        | Backend         | Routing           |
-| 12 | Task API            | Backend         | CRUD + MongoDB    |
-| 13 | MVC Refactor        | Architecture    | MVC Pattern       |
-| 14 | Data Modeler        | Database        | Schema Design     |
+| No | Project Name        | Domain          | Key Concept                 |
+| -- | ------------------- | --------------- | --------------------------- |
+| 01 | Folder Architect    | Fundamentals    | File Structure              |
+| 02 | Weather Dashboard   | API             | Data Fetching               |
+| 03 | Mood Tracker        | UI/UX           | State Handling              |
+| 04 | Dynamic List App    | JavaScript      | DOM Manipulation            |
+| 05 | Responsive Hero     | Frontend        | Responsive Design           |
+| 06 | Student Manager     | Logic           | Data Handling               |
+| 07 | Console Challenges  | Problem Solving | Algorithms                  |
+| 08 | Product Listing Pro | Frontend        | API Integration             |
+| 09 | Hello Server        | Backend         | Express Basics              |
+| 10 | Smart Signup        | React           | Authentication UI           |
+| 11 | Route Master        | Backend         | Routing                     |
+| 12 | Task API            | Backend         | CRUD + MongoDB              |
+| 13 | MVC Refactor        | Architecture    | MVC Pattern                 |
+| 14 | Data Modeler        | Database        | Schema Design               |
+| 15 | CRUD Lab            | Backend         | Mongoose CRUD Operations    |
+| 16 | Secure Login        | Backend         | JWT Authentication          |
+| 17 | Role Guard          | Backend         | Role-based Authorization    |
+| 18 | Connect the Stack   | Full Stack      | React + Backend Integration |
 
 ---
 
@@ -148,8 +154,8 @@ Designed a **scalable database schema** for a blogging platform.
 
 ## 🎯 Career Objective
 
-To secure a role as a **Full Stack Developer** where I can contribute to building **scalable, high-performance applications** while continuously enhancing my technical expertise.
+To secure a role as a **Full Stack Developer** and contribute to building **scalable, secure, and high-performance applications** while continuously enhancing my technical expertise.
 
 ---
 
-⭐ This repository represents my structured journey toward becoming a **professional full stack engineer**.
+⭐ This repository represents my journey from **frontend basics → full-stack development → backend architecture → authentication systems**.
